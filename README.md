@@ -9,7 +9,7 @@ I used random API, developed by: @RazorSh4rk (https://github.com/RazorSh4rk/rand
 
 ```shell
 mvn clean install -U
-
+```
 
 
 ## Authors
